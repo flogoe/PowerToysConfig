@@ -1,8 +1,0 @@
-[2025-07-24 09:12:58.356869] [p-9004] [t-16768] [info] keyboard-manager logger is initialized
-[2025-07-24 09:12:58.428587] [p-9004] [t-16768] [trace] SettingsHelper::LoadSettings()
-[2025-07-24 09:25:14.454736] [p-9004] [t-16768] [trace] ChordKeyboardHandler:keyEventList.size:4
-[2025-07-24 09:25:16.194158] [p-9004] [t-16768] [trace] ChordKeyboardHandler:keyEventList.size:4
-[2025-07-24 09:25:16.519258] [p-9004] [t-16768] [trace] ChordKeyboardHandler:keyEventList.size:4
-[2025-07-24 09:28:01.200193] [p-9004] [t-16768] [trace] ChordKeyboardHandler:keyEventList.size:5
-[2025-07-24 15:06:32.518265] [p-26020] [t-26220] [info] keyboard-manager logger is initialized
-[2025-07-24 15:06:32.612153] [p-26020] [t-26220] [trace] SettingsHelper::LoadSettings()
